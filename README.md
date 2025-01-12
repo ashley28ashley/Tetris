@@ -14,13 +14,17 @@ Ce projet est une implémentation du jeu classique Tetris en C# utilisant Window
 
 ### 2- Comment jouer
 
-Utilisez les flèches gauche et droite pour déplacer la pièce
-Flèche du haut pour faire pivoter la pièce
-Flèche du bas pour accélérer la chute
+Utilisez les flèches gauche et droite pour déplacer la pièce,
+
+Flèche du haut pour faire pivoter la pièce,
+
+Flèche du bas pour accélérer la chute,
+
 Barre d’espace pour faire tomber la pièce instantanément
 
 ## Configuration requise
 Système d’exploitation Windows
+
 .NET Framework (version compatible avec le projet)
 Visual Studio (pour le développement et la compilation)
 Installation
