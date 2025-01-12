@@ -9,7 +9,7 @@ Ce projet est une implémentation du jeu classique Tetris en C# utilisant Window
 *Affichage du score en temps réel
 *Aperçu de la prochaine pièce
 *Options de jeu configurables (vitesse)
-* la suppression de lignes
+*la suppression de lignes
 *Système de pause
 
 ### 2- Comment jouer
